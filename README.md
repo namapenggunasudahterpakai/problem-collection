@@ -6,14 +6,13 @@ Cukup 1 masalah saja.
 Lakukan Fork repositori ini, bukan clone.
 
 # Problem
-(tulis masalah disini)
-
+Bermain handphone saat jam pelajaran kosong
+(walaupun saya juga kadang kadang sih)
 # Solution
-(tulis solusi disini)
-
+Alih kan dengan kegiatan lain yang disukai,contohnya seperti membaca novel ataupun bermain
+Ataupun saat ada tugas yg belum terselesaikan bisa dilanjutkan
 
 ## Author
-by (tulis nama kamu) 
-
+by abyan 
 
 cc: SMPN 1 Semarang
