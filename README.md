@@ -6,14 +6,13 @@ Cukup 1 masalah saja.
 Lakukan Fork repositori ini, bukan clone.
 
 # Problem
-(tulis masalah disini)
+LCD ataupun fasilitas sekolah rusak
 
 # Solution
-(tulis solusi disini)
-
+membuat aplikasi tentang inventaris & daftar daftar fasilitas
 
 ## Author
-by (tulis nama kamu) 
+by abyan ghoziyi
 
 
 cc: SMPN 1 Semarang
